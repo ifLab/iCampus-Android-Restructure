@@ -39,7 +39,6 @@ public class MainActivity extends ActionBarActivity {
     private TextView textView;
     private WebView webView;
     private String info = "";
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
